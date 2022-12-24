@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Saad</h1>
 <h3 align="center">A passionate MERN Stack Developer and Data Enthusiast</h3>
 
-<img align="center" alt="coding" width="800" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsaad-07&label=Profile%20views&color=0e75b6&style=flat" alt="syedsaad-07" /> </p>
 
